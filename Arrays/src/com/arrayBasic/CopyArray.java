@@ -1,5 +1,7 @@
 package com.arrayBasic;
 
+//copy the digits from one array to anthor array
+
 public class CopyArray {
 	public static void main(String[] args) {
 		 int [] src={3,7,8,2,5,6,4};
@@ -20,3 +22,4 @@ public class CopyArray {
 	}
 
 }
+
