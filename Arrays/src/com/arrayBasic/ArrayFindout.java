@@ -2,6 +2,9 @@ package com.arrayBasic;
 
 import java.util.Scanner;
 
+
+//Find out the digits at the current position of an array
+
 public class ArrayFindout {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
@@ -31,3 +34,4 @@ public class ArrayFindout {
 	}
 
 }
+
